@@ -17,28 +17,12 @@ Planifier de maniere optimale un ensemble d'operations medicales en respectant l
 | `SMA_orchestration.py` | Systeme Multi-Agents (orchestration) | — |
 | `agent.py` | Agent SMA individuel | — |
 
-## Structure du Projet
-
-```
-.
-├── Recherche Tabou.ipynb          # Tabu Search
-├── Algo_genetique.ipynb           # Genetic Algorithm
-├── Algorithme génétique 2.ipynb   # Genetic Algorithm (variant)
-├── Projet_IA_optimisation_RS.ipynb# Simulated Annealing
-├── SMA_orchestration.py           # Multi-Agent System orchestrator
-├── agent.py                       # Individual agent logic
-├── test.py                        # Test script
-├── test_Imad.py                   # Parametrised experiment driver
-├── test_ouassa.ipynb              # Combined test notebook
-├── requirements.txt               # Python dependencies
-└── README.md
-```
 
 ## Installation
 
 ```bash
-git clone https://github.com/<votre-utilisateur>/<nom-du-repo>.git
-cd <nom-du-repo>
+git clone https://github.com/laggywiggl/hospital-scheduling-metaheuristics.git
+cd hospital-scheduling-metaheuristics
 pip install -r requirements.txt
 ```
 
@@ -48,14 +32,6 @@ pip install -r requirements.txt
 
 ```bash
 jupyter notebook
-```
-
-Ouvrir le notebook correspondant a l'algorithme souhaite et executer les cellules.
-
-### Scripts Python
-
-```bash
-python SMA_orchestration.py
 ```
 
 ## Dependances
