@@ -10,12 +10,12 @@ Planifier de maniere optimale un ensemble d'operations medicales en respectant l
 
 | Fichier | Methode | Auteurs |
 |---------|---------|---------|
-| `Recherche Tabou.ipynb` | Recherche Tabou | Ouafa AIT OUAMER, Hassan MAHAMAT IMAM |
-| `Algo_genetique.ipynb` | Algorithme Genetique | Imad FECIH, Oussama AMIRI |
-| `Algorithme génétique 2.ipynb` | Algorithme Genetique (variante) | — |
-| `Projet_IA_optimisation_RS.ipynb` | Recuit Simule | Bakir KOUTA, Timote RICHARD |
-| `SMA_orchestration.py` | Systeme Multi-Agents (orchestration) | — |
-| `agent.py` | Agent SMA individuel | — |
+| `Recherche Tabou.ipynb` | Recherche Tabou | 
+| `Algo_genetique.ipynb` | Algorithme Genetique | 
+| `Algorithme génétique 2.ipynb` | Algorithme Genetique (variante) |
+| `Projet_IA_optimisation_RS.ipynb` | Recuit Simule | 
+| `SMA_orchestration.py` | Systeme Multi-Agents (orchestration) | 
+| `agent.py` | Agent SMA individuel | 
 
 
 ## Installation
