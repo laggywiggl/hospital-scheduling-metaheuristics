@@ -11,7 +11,6 @@ Planifier de maniere optimale un ensemble d'operations medicales en respectant l
 | Fichier | Methode | 
 |---------|---------|
 | `Recherche Tabou.ipynb` | Recherche Tabou | 
-| `Algo_genetique.ipynb` | Algorithme Genetique | 
 | `Algorithme génétique 2.ipynb` | Algorithme Genetique (variante) |
 | `Projet_IA_optimisation_RS.ipynb` | Recuit Simule | 
 | `SMA_orchestration.py` | Systeme Multi-Agents (orchestration) | 
