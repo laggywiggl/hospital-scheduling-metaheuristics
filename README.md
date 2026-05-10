@@ -8,8 +8,8 @@ Planifier de maniere optimale un ensemble d'operations medicales en respectant l
 
 ## Algorithmes Implementes
 
-| Fichier | Methode | Auteurs |
-|---------|---------|---------|
+| Fichier | Methode | 
+|---------|---------|
 | `Recherche Tabou.ipynb` | Recherche Tabou | 
 | `Algo_genetique.ipynb` | Algorithme Genetique | 
 | `Algorithme génétique 2.ipynb` | Algorithme Genetique (variante) |
